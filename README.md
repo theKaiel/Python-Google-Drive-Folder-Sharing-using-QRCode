@@ -1,5 +1,5 @@
 # Google Drive Folders Sharing Using QRCode
-Share Google Drive folder links using QRcode in correct order.
+Share Google Drive folder links using QRcode in the correct order.
 
 - Python GUI
 
