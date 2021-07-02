@@ -1,8 +1,8 @@
-# Google-Drive-folder-share-orderly-to-QRCode
+# Google Drive Folders Sharing Using QRCode
 Share Google Drive folder links using QRcode in correct order.
 
 - Python GUI
 
   - module: *tkinter*
-  - main objects used: Frame, ScrolledText, Entry, Button etc.
+  - main objects used: *Label*, *Entry*, *Button* etc.
 
