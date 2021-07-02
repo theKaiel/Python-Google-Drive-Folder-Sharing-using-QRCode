@@ -15,3 +15,5 @@ Share Google Drive folder links using QRcode in the correct order.
   5. Open the excel file in GUI and select a local directory for storing QRcode pictures
   6. Click the button to generate QRcode pictures
 
+- Reference
+  - Get sharing links orderly: 
